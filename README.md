@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![](Images/Banner.png)
+![](Images\Banner.png)
 
 <p align="center">
 <a href="mailto:lauraochoae7@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white" alt="Email"></a>
