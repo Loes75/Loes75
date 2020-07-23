@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![LauraOchoa](Images/Banner.png)
+![LauraOchoa](https://github.com/Loes75/Loes75/Images/Banner.png)
 
 <p align="center">
 <a href="mailto:lauraochoae7@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white" alt="Email"></a>
