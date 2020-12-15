@@ -9,7 +9,7 @@
 
 ### Hola 👋
 
-Soy ingeniera electrónica, apasionada por la programación y la tecnología. Me encantan los retos y estar en constante aprendizaje, actualmente estoy enfocada en el desarrollo front end. En mis tiempos libres me gusta aprender sobre machine learning y big data. 
+Soy ingeniera electrónica, apasionada por la programación y la tecnología. Me encantan los retos y estar en constante aprendizaje, actualmente estoy enfocada en el desarrollo de software. En mis tiempos libres me gusta aprender sobre machine learning y big data. 
 
 Si crees que te puedo ayudar en algo no dudes en escribirme!  :v: :zap:
 
