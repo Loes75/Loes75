@@ -1,5 +1,5 @@
 
-![LauraOchoa](https://raw.githubusercontent.com/Loes75/Loes75/master/Images/Banner.png)
+![LauraOchoa](https://raw.githubusercontent.com/Loes75/Loes75/master/Images/banner_v2.png)
 
 <p align="center">
 <a href="mailto:lauraochoae7@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white" alt="Email"></a>
